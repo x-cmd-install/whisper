@@ -7,13 +7,13 @@ about:
   head: 8609812
   archived: false
   latestVersion: v20250625
-  collectedAt: 2026-09-04T19:58:04Z
+  collectedAt: 2026-09-04T20:46:01Z
 timeline:
   created: 2022-09-16
   lastCommit: 2026-08-31
   lastRelease: 2025-06-26
 popularity:
-  star: 108428
+  star: 108432
   watcher: 781
   fork: 13134
   release: 13
@@ -80,6 +80,54 @@ total:
   openIssue: 0
   commit: 171
 ---
+path: /home/runner/.x-repo/github.com/openai/whisper
+collectedAt: 2026-09-04T20:46:01Z
+loc:
+  Svg:
+    code: 8205
+    comments: 256
+    blanks: 0
+    files: 1
+  Python:
+    code: 3489
+    comments: 153
+    blanks: 653
+    files: 20
+  Json:
+    code: 2063
+    comments: 0
+    blanks: 0
+    files: 2
+  Jupyter:
+    code: 273
+    comments: 27
+    blanks: 69
+    files: 2
+  Toml:
+    code: 47
+    comments: 0
+    blanks: 7
+    files: 1
+  Autoconf:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 260
+    blanks: 160
+    files: 4
+  Text:
+    code: 0
+    comments: 7
+    blanks: 0
+    files: 1
+total:
+  code: 14384
+  comments: 740
+  blanks: 969
+  files: 32
 ---
 date: "2026-08-24"
 repo:
