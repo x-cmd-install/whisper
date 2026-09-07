@@ -5,15 +5,15 @@ about:
   head: 8609812
   archived: false
   latestVersion: "v20250625"
-  collectedAt: 2026-09-07T04:50:15Z
+  collectedAt: 2026-09-07T19:35:27Z
 timeline:
   created: 2022-09-16
   lastCommit: 2026-08-31
   lastRelease: 2025-06-26
 popularity:
-  star: 108648
-  watcher: 783
-  fork: 13169
+  star: 108701
+  watcher: 782
+  fork: 13171
   release: 13
   contributor: 87
   pullRequest: 411
@@ -79,7 +79,7 @@ total:
   commit: 171
 ---
 path: /home/runner/.x-repo/github.com/openai/whisper
-collectedAt: 2026-09-07T04:50:16Z
+collectedAt: 2026-09-07T19:35:28Z
 loc:
   Svg:
     code: 8205
@@ -213,7 +213,7 @@ checks:
       - 'Warn: 0 commits out of 24 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:50:17+00:00
+  collectedAt: 2026-09-07T19:35:29+00:00
   platform:
     darwin/arm64:
       name:  null
