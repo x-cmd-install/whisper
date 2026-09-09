@@ -7,7 +7,7 @@ about:
   latestVersion: "v20250625"
   latestRelease: "v20250625"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:58:15Z
+  collectedAt: 2026-09-09T19:06:06Z
 timeline:
   created: 2022-09-16
   lastCommit: 2026-08-31
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2025-06-26
   lastPrerelease: 
 popularity:
-  star: 108769
+  star: 108788
   watcher: 782
-  fork: 13185
+  fork: 13186
   release: 13
   contributor: 86
   pullRequest: 411
@@ -83,7 +83,7 @@ total:
   commit: 171
 ---
 path: /home/runner/.x-repo/github.com/openai/whisper
-collectedAt: 2026-09-09T04:58:16Z
+collectedAt: 2026-09-09T19:06:09Z
 loc:
   Svg:
     code: 8205
