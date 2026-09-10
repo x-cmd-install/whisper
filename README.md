@@ -21,23 +21,22 @@ x install whisper
 
 - **Latest**: `v20250625` (2025-06-26)
 - **Last commit**: 2026-08-31
-- **Published**: 2025-06-26T01:06:09Z
 
 ## Popularity
 
-- **Stars**: 108,811 · **Forks**: 13,189 · **Open issues**: 0 · **Contributors**: 86
+- **Stars**: 108,838 · **Forks**: 13,189 · **Open issues**: 0 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 123 · **Open PRs**: 146 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 171
+- **Releases**: 13 · **Merged PRs**: 123 · **Open PRs**: 148 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 171
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 12 | 0 | 0 | 1 |
-| 90d | 2026-06-12 | 0 | 2 | 25 | 0 | 0 | 2 |
-| 360d | 2025-09-15 | 0 | 4 | 60 | 0 | 0 | 4 |
+| 30d | 2026-08-11 | 0 | 1 | 14 | 0 | 0 | 1 |
+| 90d | 2026-06-12 | 0 | 2 | 27 | 0 | 0 | 2 |
+| 360d | 2025-09-15 | 0 | 4 | 62 | 0 | 0 | 4 |
 
 ## Code size
 
@@ -66,8 +65,8 @@ Lowest-scoring checks:
 Install metadata for whisper lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `whisper` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/whisper.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/whisper.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:53:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:51:42Z._

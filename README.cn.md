@@ -4,7 +4,7 @@
 
 Robust Speech Recognition via Large-Scale Weak Supervision
 
-![whisper](https://repo.x-cmd.io/whisper.svg)
+![whisper](https://repo.x-cmd.io/whisper.svg?lang=zh)
 
 ## 安装
 
@@ -21,23 +21,22 @@ x install whisper
 
 - **最新版本**: `v20250625` (2025-06-26)
 - **最近提交**: 2026-08-31
-- **发布时间**: 2025-06-26T01:06:09Z
 
 ## 流行度
 
-- **Star**: 108,811 · **Fork**: 13,189 · **开放 issue**: 0 · **贡献者**: 86
+- **Star**: 108,838 · **Fork**: 13,189 · **开放 issue**: 0 · **贡献者**: 86
 
 ## 累计统计
 
-- **发布数**: 13 · **已合并 PR**: 123 · **开放 PR**: 146 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 171
+- **发布数**: 13 · **已合并 PR**: 123 · **开放 PR**: 148 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 171
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 12 | 0 | 0 | 1 |
-| 90d | 2026-06-12 | 0 | 2 | 25 | 0 | 0 | 2 |
-| 360d | 2025-09-15 | 0 | 4 | 60 | 0 | 0 | 4 |
+| 30d | 2026-08-11 | 0 | 1 | 14 | 0 | 0 | 1 |
+| 90d | 2026-06-12 | 0 | 2 | 27 | 0 | 0 | 2 |
+| 360d | 2025-09-15 | 0 | 4 | 62 | 0 | 0 | 4 |
 
 ## 代码规模
 
@@ -70,4 +69,4 @@ whisper 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:53:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:51:42Z._
