@@ -12,7 +12,7 @@ Robust Speech Recognition via Large-Scale Weak Supervision
 x install whisper
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **14,082** 行代码（覆盖前 5 种语言、共 **26** 个文件）。
 
@@ -46,7 +46,7 @@ x install whisper
 
 ## 流行度
 
-- **Star**: 108,849 · **Fork**: 13,190 · **开放 issue**: 0 · **贡献者**: 86
+- **Star**: 108,853 · **Fork**: 13,190 · **开放 issue**: 0 · **贡献者**: 86
 
 ## 累计统计
 
@@ -76,4 +76,4 @@ whisper 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:57:10Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:56:58Z._
