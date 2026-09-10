@@ -12,33 +12,7 @@ Robust Speech Recognition via Large-Scale Weak Supervision
 x install whisper
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/openai/whisper>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v20250625` (2025-06-26)
-- **Last commit**: 2026-08-31
-
-## Popularity
-
-- **Stars**: 108,838 · **Forks**: 13,189 · **Open issues**: 0 · **Contributors**: 86
-
-## Totals (cumulative)
-
-- **Releases**: 13 · **Merged PRs**: 123 · **Open PRs**: 148 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 171
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 14 | 0 | 0 | 1 |
-| 90d | 2026-06-12 | 0 | 2 | 27 | 0 | 0 | 2 |
-| 360d | 2025-09-15 | 0 | 4 | 62 | 0 | 0 | 4 |
-
-## Code size
+## Code insight
 
 Total: **14,082** lines of code across **26** files in the top 5 languages.
 
@@ -60,6 +34,39 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/openai/whisper>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v20250625` (2025-06-26)
+- **Last commit**: 2026-08-31
+
+## Popularity
+
+- **Stars**: 108,849 · **Forks**: 13,190 · **Open issues**: 0 · **Contributors**: 86
+
+## Totals (cumulative)
+
+- **Releases**: 13 · **Merged PRs**: 123 · **Open PRs**: 148 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 171
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 14 | 0 | 0 | 1 |
+| last60d | 2026-07-12 | 0 | 2 | 20 | 0 | 0 | 2 |
+| 90d | 2026-06-12 | 0 | 2 | 27 | 0 | 0 | 2 |
+| last180d | 2026-03-14 | 0 | 4 | 40 | 0 | 0 | 4 |
+| 360d | 2025-09-15 | 0 | 4 | 62 | 0 | 0 | 4 |
+| last720d | 2024-09-20 | 3 | 23 | 89 | 0 | 0 | 33 |
+
+## Distribution status
+
+Reported by **17** distros on [repology.org](https://repology.org/project/whisper). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
 ## Improve this data
 
 Install metadata for whisper lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `whisper` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -69,4 +76,4 @@ Install metadata for whisper lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:51:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:57:10Z._
