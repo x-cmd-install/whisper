@@ -43,13 +43,13 @@
   "body": "",
   "reactions": {
     "url": "https://api.github.com/repos/openai/whisper/releases/227870897/reactions",
-    "total_count": 178,
+    "total_count": 179,
     "+1": 110,
     "-1": 0,
     "laugh": 13,
     "hooray": 15,
     "confused": 0,
-    "heart": 11,
+    "heart": 12,
     "rocket": 10,
     "eyes": 19
   }
