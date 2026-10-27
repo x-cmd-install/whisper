@@ -26,11 +26,11 @@ Total: **14,082** lines of code across **26** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 111,266 · **Forks**: 13,473 · **Open issues**: 0 · **Contributors**: 89
+- **Stars**: 111,357 · **Forks**: 13,484 · **Open issues**: 0 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 124 · **Open PRs**: 179 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 171
+- **Releases**: 13 · **Merged PRs**: 124 · **Open PRs**: 180 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 171
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 24 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 0 | 1 | 42 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 0 | 1 | 51 | 0 | 0 | 1 |
-| last180d | 2026-04-29 | 0 | 3 | 66 | 0 | 0 | 3 |
-| 360d | 2025-10-31 | 0 | 5 | 81 | 0 | 0 | 5 |
-| last720d | 2024-11-05 | 1 | 18 | 116 | 0 | 0 | 24 |
+| 30d | 2026-09-27 | 0 | 0 | 25 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 0 | 1 | 43 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 0 | 1 | 50 | 0 | 0 | 1 |
+| last180d | 2026-04-30 | 0 | 3 | 67 | 0 | 0 | 3 |
+| 360d | 2025-11-01 | 0 | 5 | 82 | 0 | 0 | 5 |
+| last720d | 2024-11-06 | 1 | 18 | 117 | 0 | 0 | 24 |
 
 ## Distribution status
 
@@ -76,4 +76,4 @@ Install metadata for whisper lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:55:21Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:08:13Z._

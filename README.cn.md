@@ -26,11 +26,11 @@ x install whisper
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.3 / 10**
+总评分: **4.1 / 10**
 
 评分最低的几项:
 
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -46,22 +46,22 @@ x install whisper
 
 ## 流行度
 
-- **Star**: 111,266 · **Fork**: 13,473 · **开放 issue**: 0 · **贡献者**: 89
+- **Star**: 111,357 · **Fork**: 13,484 · **开放 issue**: 0 · **贡献者**: 89
 
 ## 累计统计
 
-- **发布数**: 13 · **已合并 PR**: 124 · **开放 PR**: 179 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 171
+- **发布数**: 13 · **已合并 PR**: 124 · **开放 PR**: 180 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 171
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 24 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 0 | 1 | 42 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 0 | 1 | 51 | 0 | 0 | 1 |
-| last180d | 2026-04-29 | 0 | 3 | 66 | 0 | 0 | 3 |
-| 360d | 2025-10-31 | 0 | 5 | 81 | 0 | 0 | 5 |
-| last720d | 2024-11-05 | 1 | 18 | 116 | 0 | 0 | 24 |
+| 30d | 2026-09-27 | 0 | 0 | 25 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 0 | 1 | 43 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 0 | 1 | 50 | 0 | 0 | 1 |
+| last180d | 2026-04-30 | 0 | 3 | 67 | 0 | 0 | 3 |
+| 360d | 2025-11-01 | 0 | 5 | 82 | 0 | 0 | 5 |
+| last720d | 2024-11-06 | 1 | 18 | 117 | 0 | 0 | 24 |
 
 ## 发行版状态
 
@@ -76,4 +76,4 @@ whisper 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T04:55:22Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T05:08:14Z._
