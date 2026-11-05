@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 111,910 · **Forks**: 13,559 · **Open issues**: 0 · **Contributors**: 89
+- **Stars**: 111,985 · **Forks**: 13,568 · **Open issues**: 0 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 124 · **Open PRs**: 180 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 171
+- **Releases**: 13 · **Merged PRs**: 124 · **Open PRs**: 181 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 171
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 20 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 35 | 0 | 0 | 0 |
-| 90d | 2026-08-06 | 0 | 1 | 47 | 0 | 0 | 1 |
-| last180d | 2026-05-08 | 0 | 3 | 67 | 0 | 0 | 3 |
-| 360d | 2025-11-09 | 0 | 5 | 82 | 0 | 0 | 5 |
-| last720d | 2024-11-14 | 1 | 15 | 117 | 0 | 0 | 23 |
+| 30d | 2026-10-06 | 0 | 0 | 19 | 0 | 0 | 0 |
+| last60d | 2026-09-06 | 0 | 0 | 35 | 0 | 0 | 0 |
+| 90d | 2026-08-07 | 0 | 1 | 48 | 0 | 0 | 1 |
+| last180d | 2026-05-09 | 0 | 3 | 68 | 0 | 0 | 3 |
+| 360d | 2025-11-10 | 0 | 5 | 82 | 0 | 0 | 5 |
+| last720d | 2024-11-15 | 1 | 15 | 118 | 0 | 0 | 23 |
 
 ## Distribution status
 
@@ -76,4 +76,4 @@ Install metadata for whisper lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:22:42Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:51:56Z._
