@@ -31,8 +31,8 @@ Overall score: **4.1 / 10**
 Lowest-scoring checks:
 
 - **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 113,405 · **Forks**: 13,721 · **Open issues**: 0 · **Contributors**: 89
+- **Stars**: 113,378 · **Forks**: 13,722 · **Open issues**: 0 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 124 · **Open PRs**: 188 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 171
+- **Releases**: 13 · **Merged PRs**: 124 · **Open PRs**: 187 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 171
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 13 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 39 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 0 | 1 | 54 | 0 | 0 | 1 |
-| last180d | 2026-05-27 | 0 | 3 | 74 | 0 | 0 | 3 |
-| 360d | 2025-11-28 | 0 | 5 | 89 | 0 | 0 | 5 |
-| last720d | 2024-12-03 | 1 | 14 | 123 | 0 | 0 | 21 |
+| 30d | 2026-10-25 | 0 | 0 | 13 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 38 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 0 | 1 | 54 | 0 | 0 | 1 |
+| last180d | 2026-05-28 | 0 | 3 | 74 | 0 | 0 | 3 |
+| 360d | 2025-11-29 | 0 | 5 | 88 | 0 | 0 | 5 |
+| last720d | 2024-12-04 | 1 | 14 | 123 | 0 | 0 | 21 |
 
 ## Distribution status
 
@@ -76,4 +76,4 @@ Install metadata for whisper lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:57:11Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:13:47Z._
