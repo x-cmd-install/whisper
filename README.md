@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 113,378 · **Forks**: 13,722 · **Open issues**: 0 · **Contributors**: 89
+- **Stars**: 113,469 · **Forks**: 13,734 · **Open issues**: 0 · **Contributors**: 89
 
 ## Totals (cumulative)
 
@@ -56,16 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 13 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 38 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 1 | 54 | 0 | 0 | 1 |
-| last180d | 2026-05-28 | 0 | 3 | 74 | 0 | 0 | 3 |
-| 360d | 2025-11-29 | 0 | 5 | 88 | 0 | 0 | 5 |
-| last720d | 2024-12-04 | 1 | 14 | 123 | 0 | 0 | 21 |
-
-## Distribution status
-
-Reported by **17** distros on [repology.org](https://repology.org/project/whisper). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+| 30d | 2026-10-26 | 0 | 0 | 11 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 36 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 1 | 53 | 0 | 0 | 1 |
+| last180d | 2026-05-29 | 0 | 3 | 73 | 0 | 0 | 3 |
+| 360d | 2025-11-30 | 0 | 5 | 87 | 0 | 0 | 5 |
+| last720d | 2024-12-05 | 1 | 14 | 122 | 0 | 0 | 21 |
 
 ## Improve this data
 
@@ -76,4 +72,4 @@ Install metadata for whisper lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:13:47Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:50:16Z._
